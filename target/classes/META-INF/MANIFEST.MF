@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: SBANDI
+Build-Jdk: 17
+Implementation-Title: BankingApplication
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: org.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/BankingApplication
+Created-By: Maven Integration for Eclipse
+
